@@ -15,11 +15,11 @@ For some other interesting things about me outside of my career, I practice Okin
 ### TL;DR
 
 **Me**: August
-**Profession**: IT Admin -> Software Engineer
-**Location**: Chico, California -> Dublin, Ireland
-**Programming Languages**: C#, Python, C/++, JS, PHP (roughly in that order of proficiency)
-**Admin Work**: Basically all the things
-**Hobbies**: Martial Arts, Media, Music, Motorcycles, and More
+**Profession**: IT Admin -> Software Engineer  
+**Location**: Chico, California -> Dublin, Ireland  
+**Programming Languages**: C#, Python, C/++, JS, PHP (roughly in that order of proficiency)  
+**Admin Work**: Basically all the things  
+**Hobbies**: Martial Arts, Media, Music, Motorcycles, and More  
 
 ### Contact me
 
