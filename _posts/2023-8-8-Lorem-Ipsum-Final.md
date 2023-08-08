@@ -1,0 +1,18 @@
+---
+layout: post
+title: Lorem Ipsum "Final" Presentation!
+---
+
+Hello World and now Lorem Ipsum, this site must look like it's all placeholder, but I swear it's not. It's just my team name for my University Summer Software Project working with the Microsoft HoloLens2.
+
+Today my team and I gave our "final" presentation on the project. (*It was actually our final graded presentation. We have a post-mortem next week, and a presentation to Microsoft in two weeks, as well as our final report still to do*). Still, it was a major milestone for us, and while we still have some bug fixes to work on in the next couple of weeks, we are pretty much finished with feature development.
+
+I'll do a more comprehensive post about the project when it's officially completed, but for now I'll give a quick overview of what we've done. The [**Lorem Ipsum HoloLens2 Translation application**](https://github.com/LoremIpsumUCD23/HoloLens-Translator) is a near-realtime at-a-glance augmented reality translation service. It uses the HoloLens' camera to take a picture of what you're looking at, upload it to Azure Cognitive Services for image recognition, then raycasts objects of interest from the image out into the environment (using the HoloLens' Spatial Awareness system). From there the captions make calls out to Meriam Webster's Dictionary API (*with a fallback to ChatGPT's API*) to gather descriptions for the identified objects. Those captions and descriptions are kicked off to Azure's machine translation services to translate the text into a target secondary language (*we currently support Japanese, Hindi, Bengali, and Malay, the languages that my teammates understand*). All of this runs in under 3 seconds, dependent on network speeds (*with the image processing being the slowest part, since we aren't doing any compression currently*). The captions can then be read aloud using Azure's Text-to-Speech services.
+
+This ambitious combination of services (*while far from flawless*) works reasonably well. I'll admit that the translations are not always perfect (*it is machine translation after all*), the dictionary definitions are sometimes a bit awkward, the captions received from the image recognition service could certainly be more detailed, and the raycasting is not exactly spot on all the time (*due to some unknown issues with camera offsets and optical warping that requires further study*), but when it works, it's pretty cool.
+
+Slightly more impressive and practical, we also support limited live captioning (*only English to Hindi currently, though we initially tested with Spanish, and only for short phrases*). This function works pretty well for adding subtitles to conversation snippets (*also using Azure services*). We need to integrate it better with our other language translations, but it's a promising demo.
+
+Anyway, we presented a brief pre-recorded demo of the app today (*since we are unable to take the HoloLens2 device off premises*), as well as showing off our tech stack, challenges, evaluation strategies and results. We were all quite nervous presenting, especially since we had to fit a very tight time slot, and we were the last group of 11 to present. It was a very long day, but we're happy to be done. As mentioned, I'll do a more comprehensive post on the project (*probably on my projects page*) in the next couple weeks when our final report is finished, but I definitely wanted to share this major milestone.
+
+![Lorem Ipsum Team Photo](https://photos.app.goo.gl/bqjSHrB9kANuHxYB6)
