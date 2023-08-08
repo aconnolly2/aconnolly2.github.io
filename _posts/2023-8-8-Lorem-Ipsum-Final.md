@@ -15,4 +15,4 @@ Slightly more impressive and practical, we also support limited live captioning 
 
 Anyway, we presented a brief pre-recorded demo of the app today (*since we are unable to take the HoloLens2 device off premises*), as well as showing off our tech stack, challenges, evaluation strategies and results. We were all quite nervous presenting, especially since we had to fit a very tight time slot, and we were the last group of 11 to present. It was a very long day, but we're happy to be done. As mentioned, I'll do a more comprehensive post on the project (*probably on my projects page*) in the next couple weeks when our final report is finished, but I definitely wanted to share this major milestone.
 
-![Lorem Ipsum Team Photo](https://photos.app.goo.gl/bqjSHrB9kANuHxYB6)
+![Lorem Ipsum Team Photo](https://lh3.googleusercontent.com/pw/AIL4fc-cPBH1Dbwhw4BPsLyfBHsqRbOeuXiubD4mJdN--sTT6Crzo_oFEdBMYBLzS6Jm5Yxcur65PsimVkJ-d2WMGRmhnK_kCHAfvSiUlsV6N4XYtfPB0UF_HL48BNqNAy9qKnmoRkwpNTBwXvRkhfdTz6j-9A=w1008-h703-s-no?authuser=0)
