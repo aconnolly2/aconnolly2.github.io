@@ -287,13 +287,10 @@ footer {
 // projects
 //
 
-.project-thumbnail {
-
-  .img {
-    float: left;
-    width: 100px;
-    height: 100px;
-  }
+img.project-thumbnail {
+  float: right;
+  width: 100px;
+  height: 100px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
