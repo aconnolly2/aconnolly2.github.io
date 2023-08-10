@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /40-stories/
-title:
-thumbnail:
+title: 40 Stories
+thumbnail: 40StoriesT.jpg
 link:
-release-date:
-team:
-platform:
-tech:
+release-date: Dec 16 2010
+team: Chico State Game Studios
+platform: Windows
+tech: Unreal Development Kit
 ---

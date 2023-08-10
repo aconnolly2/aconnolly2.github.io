@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /snake-eyes/
-title:
-thumbnail:
+title: Snake Eyes
+thumbnail: SnakeEyesT.jpg
 link:
-release-date:
+release-date: Jan 29 2012
 team:
-platform:
-tech:
+platform: Windows / Xbox 360
+tech: XNA / C#
 ---

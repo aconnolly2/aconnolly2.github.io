@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /vascular-voyage/
-title:
-thumbnail:
+title: Vascular Voyage
+thumbnail: VascularVoyageT.jpg
 link:
-release-date:
+release-date: Jan 27 2013
 team:
-platform:
-tech:
+platform: Mobile (Google Play)
+tech: Unity
 ---

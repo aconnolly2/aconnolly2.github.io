@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /cvz/
-title:
-thumbnail:
+title: Communists vs. Zombies
+thumbnail: CvZT.jpg
 link:
-release-date:
-team:
-platform:
-tech:
+release-date: Dec 23 2011
+team: Chico State Game Studios
+platform: Windows
+tech: Unreal Development Kit
 ---

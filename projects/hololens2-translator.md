@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /hololens2-translator/
-title:
-thumbnail:
+title: HoloLens2 Translator
+thumbnail: LIHTT.jpg
 link:
-release-date:
-team:
-platform:
-tech:
+release-date: Aug 23 2023
+team: Lorem Ipsum
+platform: UWP / HoloLens2
+tech: Unity, MRTK, Azure/GCP
 ---

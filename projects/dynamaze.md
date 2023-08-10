@@ -1,11 +1,10 @@
 ---
 layout: project
-permalink: /dynamaze/
-title:
-thumbnail:
+title: Dynamaze
+thumbnail: DynamazeT.jpg
 link:
-release-date:
-team:
-platform:
-tech:
+release-date: Oct 14 2011
+team: XYZZY Studios (Solo)
+platform: Windows
+tech: XNA / C#
 ---
