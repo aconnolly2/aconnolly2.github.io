@@ -4,7 +4,7 @@ title: Snake Eyes
 thumbnail: SnakeEyesT.jpg
 link:
 release-date: Jan 29 2012
-team:
+team: August Connolly, Ben Long, Faye Skeen, Jon Cattarin, Laura Jolly, Leif Dahl
 platform: Windows / Xbox 360
 tech: XNA / C#
 ---

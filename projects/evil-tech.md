@@ -4,7 +4,7 @@ title: Evil Tech
 thumbnail: EvilTechT.jpg
 link:
 release-date: May 20 2009
-team: GrayFox
+team: GrayFox (August Connolly, Russell Rogers, Michael Bluing)
 platform: Windows
 tech: GameMaker
 ---

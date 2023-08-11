@@ -4,7 +4,7 @@ title: Blotto Box
 thumbnail: BlottoBoxT.jpg
 link:
 release-date: Dec 4 2009
-team: JDAK
+team: JDAK (Josh Gabriel, Devin Taft, August Connolly, Kyle Holmquist)
 platform: Windows
 tech: GameMaker
 ---

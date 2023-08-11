@@ -7,6 +7,12 @@ layout: default
     <img class="project-title-thumbnail" src="/images/project-thumbnails/{{ page.thumbnail }}" />
     <h1 class="project-title-text">{{ page.title }}</h1>
     <h3 class="project-subtitle">{{ % if page.release-date % }}Released: {{ page.release-date }}{{ % endif % }}</h3>
+    <h3 class="project-subtitle">{{ % if page.platform }}Platform: {{ page.platform }}{{ % endif % }}</h3>
+    <h3 class="project-subtitle">{{ % if page.tech }}Developed with: {{ page.tech }}{{ % endif % }}</h3>
+  </div>
+
+  <div class="project-team-credit">
+    {{ % if page.team }}Developed by {{ page.team }}{{ % endif % }}
   </div>
 
   <div class="entry">

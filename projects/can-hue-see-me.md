@@ -4,7 +4,7 @@ title: Can Hue See Me
 thumbnail: chsmT.jpg
 link: 
 release-date: Jan 26 2014
-team:
+team: Sean Arend, Adam Bergstrom, August Connolly, Kevin Dininger, Gerritt Dorland, Katie Dorland, Jordan Emmanuel, Anthony Graceffa, Osman Samano
 platform: Windows/Web
 tech: Unity / Photon Unity Networking
 ---

@@ -4,7 +4,7 @@ title: Potato Panic
 thumbnail: PotatoPanicT.jpg
 link: https://ghotifrye.itch.io/potato-panic
 release-date: Feb 5 2023
-team:
+team: August Connolly and Noah Gabler
 platform: Web (Itch.io)
 tech: Unity
 ---

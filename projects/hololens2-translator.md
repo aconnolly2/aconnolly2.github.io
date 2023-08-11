@@ -4,7 +4,7 @@ title: HoloLens2 Translator
 thumbnail: LIHTT.jpg
 link:
 release-date: Aug 23 2023
-team: Lorem Ipsum
+team: Lorem Ipsum (Mansi Ambalam, Wen-Soong "Peter" Chua, August Connolly, Shruti Katkade, Vijayditya Sarker, Satoshi Sugai)
 platform: UWP / HoloLens2
 tech: Unity, MRTK, Azure/GCP
 ---
