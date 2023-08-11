@@ -7,10 +7,10 @@ layout: default
     <img class="project-title-thumbnail" src="/images/project-thumbnails/{{ page.thumbnail }}" />
     <h1 class="project-title-text">{{ page.title }}</h1>
   </div>
-  <h3 class="project-subtitle">{ % if page.release-date % }Released: {{ page.release-date }}{ % endif % }</h3>
+  <h3 class="project-subtitle">{{ % if page.release-date % }}Released: {{ page.release-date }}{{ % endif % }}</h3>
 
   <div class="entry">
     {{ content }}
   </div>
-  
+
 </article>
