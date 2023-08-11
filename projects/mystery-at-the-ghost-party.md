@@ -8,3 +8,5 @@ team:
 platform: Web
 tech: Unity
 ---
+
+A wealthy ghost has invited you to his manor for a party where his precious artifact has been stolen. Without it, he will descend into madness and be destroyed. This game was developed in Unity for Global Game Jam 2021 by a remote team collaborating through the Chico State jam site with the theme of “Lost and Found.”

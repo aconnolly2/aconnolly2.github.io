@@ -8,3 +8,5 @@ team:
 platform: Web (Itch.io)
 tech: Unity
 ---
+
+A potato farming game built in Unity for Global Game Jam 2023 at University College Dublin with the theme of “Roots.”

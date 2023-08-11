@@ -293,6 +293,32 @@ img.project-thumbnail {
   height: 100px;
 }
 
+//
+// project page template
+//
+
+.project-title-div {
+  display: inline-block;
+}
+
+img.project-title-thumbnail {
+  float: left;
+}
+
+.project-title-text {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1em;
+  margin-top: 0.25em;
+}
+
+.project-subtitle {
+  display: inline-block;
+  margin-left: 3em;
+  color: darkgray;
+  margin-top: 0;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
