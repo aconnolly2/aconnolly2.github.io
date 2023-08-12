@@ -16,6 +16,12 @@ A potato farming game built in Unity for Global Game Jam 2023 at University Coll
 
 ---
 
+## [Motion Capture PreVis Project]({{ site.baseurl }}/projects/previs) ![PreViz Thumbnail](images/project-thumbnails/PreVisT.jpg){:class="project-thumbnail"}
+
+A PreViz project for a motion capture class. With a small team, I acted out all the shots wearing a MoCap suit in a volume for optical capture, as well as a couple shots with an accelerometer-based X-SENS suit. As a team we cleaned up the various shots in MoBu and Maya, then did post-processing in Marmoset, and assembly in Adobe Premiere.
+
+---
+
 ## [Mystery at the Ghost Party (**2021**)]({{ site.baseurl }}/projects/mystery-at-the-ghost-party) ![Mystery at the Ghost Party Thumbnail](images/project-thumbnails/MysteryT.jpg){:class="project-thumbnail"}
 
 A wealthy ghost has invited you to his manor for a party where his precious artifact has been stolen. Without it, he will descend into madness and be destroyed. This game was developed in Unity for Global Game Jam 2021 by a remote team collaborating through the Chico State jam site with the theme of "**Lost and Found.**"
