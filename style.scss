@@ -297,6 +297,10 @@ img.project-thumbnail {
 // project page template
 //
 
+.project-description-div {
+  float: right;
+}
+
 .project-title-div {
   display: inline-block;
 }
@@ -306,14 +310,11 @@ img.project-title-thumbnail {
 }
 
 .project-title-text {
-  display: inline-block;
-  vertical-align: top;
   margin-left: 1em;
   margin-top: 0.25em;
 }
 
 .project-subtitle {
-  display: inline-block;
   margin-left: 3em;
   color: darkgray;
   margin-top: 0;
