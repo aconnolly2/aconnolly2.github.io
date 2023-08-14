@@ -21,4 +21,9 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="project-nav">
+    {% if page.next %}<a class="project-nav-button" href="{{ site.baseurl }}{{ page.next.url }}">Next Project: {{ page.next.title }}</a>{% endif %}
+    {% if page.previous %}<a class="project-nav-button" href="{{ site.baseurl }}{{ page.previous.url}}">Previous Project: {{ page.previous.title }}</a>{% endif %}
+  </div>
+
 </article>
