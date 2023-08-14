@@ -13,5 +13,10 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <div class="post-nav">
+    {% if page.next %}<a class="post-nav-button" href="{{ site.baseurl }}{{ page.next.url }}">Next Page: {{ page.next.title }}</a>{% endif %}
+    {% if page.previous %}<a class="post-nav-button" href="{{ site.baseurl }}{{ page.previous.url}}">Previous Page: {{ page.previous.title }}</a>{% endif %}
+  </div>
+
   {% include disqus.html %}
 </article>
