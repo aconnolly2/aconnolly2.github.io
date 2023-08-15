@@ -14,8 +14,8 @@ layout: default
   </div>
 
   <div class="post-nav">
-    {% if page.next %}<a class="post-nav-button" href="{{ site.baseurl }}{{ page.next.url }}">Next: {{ page.next.title }}</a>{% endif %}
-    {% if page.previous %}<a class="post-nav-button" href="{{ site.baseurl }}{{ page.previous.url}}">Prev: {{ page.previous.title }}</a>{% endif %}
+    {% if page.next %}<a class="post-nav-button-next" href="{{ site.baseurl }}{{ page.next.url }}">Next: {{ page.next.title }}</a>{% endif %}
+    {% if page.previous %}<a class="post-nav-button-prev" href="{{ site.baseurl }}{{ page.previous.url}}">Prev: {{ page.previous.title }}</a>{% endif %}
   </div>
 
   {% include disqus.html %}
