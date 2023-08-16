@@ -300,10 +300,13 @@ footer {
   box-shadow: 0px 10px 16px -13px #3e7327;
   text-shadow: 0px 1px 0px #5b8a3c;
   background:linear-gradient(#77b55a, #72b352);
+  text-align: center;
+  font-size: small;
 }
 
 .post-nav-button-prev:hover {
   background: linear-gradient(#72b352, #77b55a);
+  box-shadow: none;
 }
 
 .post-nav-button-next {
@@ -323,10 +326,13 @@ footer {
   box-shadow: 0px 10px 16px -13px #3e7327;
   text-shadow: 0px 1px 0px #5b8a3c;
   background:linear-gradient(#77b55a, #72b352);
+  text-align: center;
+  font-size: small;
 }
 
 .post-nav-button-next:hover {
   background: linear-gradient(#72b352, #77b55a);
+  box-shadow: none;
 }
 
 //
