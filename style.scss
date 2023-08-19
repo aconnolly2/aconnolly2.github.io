@@ -377,7 +377,11 @@ img.project-title-thumbnail {
 // Disqus Overrides
 //
 
-.username {
+.username.username--refresh {
+  color: gray;
+}
+
+.comment-count {
   color: gray;
 }
 
