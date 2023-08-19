@@ -263,6 +263,7 @@ nav {
 
   .comments {
     margin-top: 10px;
+    color: gray;
   }
 
   .read-more {
@@ -370,6 +371,14 @@ img.project-title-thumbnail {
   margin-left: 3em;
   color: darkgray;
   margin-top: 0;
+}
+
+//
+// Disqus Overrides
+//
+
+.username {
+  color: gray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
