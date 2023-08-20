@@ -11,3 +11,10 @@ My course load for the second semester was as follows:
 - COMP47590: Advanced Machine Learning
 - COMP47790: Optimisation
 - COMP47860: Ethical Hacking
+
+Instructors:
+Professor Julie Berndsen
+Professor Tony Veale
+Professor Brian MacNamee
+Dr Deepak Ajwani
+Professor Mark Scanlon
